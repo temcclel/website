@@ -35,7 +35,7 @@
 }
 body {
     color: var(--primary);
-    background-color: var(--secondary);
+    /*background-color: var(--secondary);*/
     font-family: Rubik;
     
 }
