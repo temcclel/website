@@ -1,0 +1,8 @@
+purple: #bb86fc
+blue: #3700b3
+turqoise: #03dac6
+turqoise (dark): #02a697
+red (error): #cf6679
+
+background: #111
+text: white
